@@ -9,10 +9,8 @@ sol.DifferenceOfSum([1, 15, 6, 3]);
 public class Solution
 {
     public int DifferenceOfSum(int[] nums)
-    {
-        var sumDiference = ElementSum(nums);
-        sumDiference-=DigitSum(nums);
-        return sumDiference;
+    {        
+        return ElementSum(nums) - DigitSum(nums);
     }
 
     private int ElementSum(int[] nums)
