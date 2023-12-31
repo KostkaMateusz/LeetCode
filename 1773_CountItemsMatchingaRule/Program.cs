@@ -1,11 +1,4 @@
-﻿
-
-
-
-
-
-
-
+﻿//https://leetcode.com/problems/count-items-matching-a-rule/description/
 
 
 
@@ -22,10 +15,13 @@ public class Solution
             _ => 2,            
         };
 
-        foreach (IList<string> item in items)            
+        foreach (IList<string> item in items)
+        {
             if (item[ruleIndex] == ruleValue)
+            {
                 count++;
-        
+            }
+        }        
         return count;
     }
 }
