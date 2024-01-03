@@ -1,4 +1,5 @@
-﻿
+﻿//https://leetcode.com/problems/valid-sudoku/description/
+
 var sol = new Solution();
 
 char[][] input =
