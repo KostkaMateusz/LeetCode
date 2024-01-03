@@ -14,7 +14,7 @@ char[][] input =
     ['.', '.', '.', '.', '8', '.', '.', '7', '9'],
 ];
 
-sol.IsValidSudoku(input);
+sol.IsValidSudoku(input); 
     
 
 public class Solution
