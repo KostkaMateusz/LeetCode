@@ -1,8 +1,10 @@
 ﻿//https://leetcode.com/problems/generate-parentheses/description/
 
+using System.Text;
+
 var sol = new Solution();
 
-var result=sol.GenerateParenthesis(3);
+var result=sol.GenerateParenthesis(10);
 
 Console.WriteLine(result.Count);
 
@@ -10,7 +12,7 @@ public class Solution
 {
     public IList<string> GenerateParenthesis(int n)
     {
-        Stack<char> stack = [];
+        StringBuilder stack = new();
         List<string> res = [];
 
         InternalBackTrack(0, 0);
@@ -20,24 +22,24 @@ public class Solution
             //return IF open == closed == n
             if(openNumber==closedNumber && closedNumber== n)
             {
-                res.Add(string.Join("",stack.Reverse()));
+                res.Add(stack.ToString());
                 return;
             }
 
             //only add open paranthesis if open < n
             if(openNumber < n)
             {
-                stack.Push('(');
+                stack.Append('(');
                 InternalBackTrack(openNumber+1, closedNumber );
-                stack.Pop();
+                stack.Remove(stack.Length - 1, 1);
             }
 
             //only add a closing paranthesis if closed<open
             if(closedNumber < openNumber)
             {
-                stack.Push(')');
+                stack.Append(')');
                 InternalBackTrack(openNumber, closedNumber + 1);
-                stack.Pop();
+                stack.Remove(stack.Length-1, 1);
             }
         }
         return res;
