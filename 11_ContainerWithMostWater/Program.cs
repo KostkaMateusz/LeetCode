@@ -7,7 +7,6 @@ Console.WriteLine(m);
 
 
 Console.WriteLine(sol.MaxArea([1, 1]));
-
 public class Solution
 {
     public int MaxArea(int[] height)
