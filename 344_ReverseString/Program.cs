@@ -2,7 +2,7 @@
 
 var sol = new Solution();
 
-char[] array = ['h'];
+char[] array = ['h', 'e', 'l', 'l', 'o'];
 
 sol.ReverseString(array);
 
