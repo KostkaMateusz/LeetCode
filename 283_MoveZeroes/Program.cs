@@ -4,7 +4,6 @@ var sol = new Solution();
 
 sol.MoveZeroes([0, 1, 0, 3, 12]);
 
-
 public class Solution
 {
     public void MoveZeroes(int[] nums)
