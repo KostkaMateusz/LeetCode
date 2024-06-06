@@ -1,6 +1,7 @@
 ﻿//https://leetcode.com/problems/number-of-good-pairs/description/
 var sol = new Solution();
 var nums = new int[] { 1, 2, 3, 1, 1, 3 };
+nums = new int[] { 1,1,1 };
 Console.WriteLine(sol.NumIdenticalPairs(nums));
 
 
@@ -13,10 +14,10 @@ public class Solution
         
         foreach (int num in nums)
         {
-            if (dict.ContainsKey(num))
+            if (dict.TryGetValue(num, out int value))
             {
-                goodPairs += dict[num];
-                dict[num]++;
+                goodPairs += value;
+                dict[num] = ++value;
             }
             else
             {
