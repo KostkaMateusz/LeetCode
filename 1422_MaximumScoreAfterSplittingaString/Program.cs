@@ -20,9 +20,9 @@ public class Solution
         var result = 0;
 
 
-        foreach(var x in s)
+        for(var i=0; i<s.Length-1; i++)
         {
-            if (x == '0')
+            if (s[i] == '0')
             {
                 zero++;
             }
