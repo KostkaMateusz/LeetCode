@@ -18,12 +18,9 @@ public class Solution
         foreach(var sand in sandwiches)
         {
             if (studentsCounter.TryGetValue(sand, out int value) && value>0)
-            {
-                if (value > 0)
-                {
-                    studentsCounter[sand]--;
-                    numberOfSandwiches--;
-                }
+            {                
+                studentsCounter[sand]--;
+                numberOfSandwiches--;                
             }
             else
                 return numberOfSandwiches;
