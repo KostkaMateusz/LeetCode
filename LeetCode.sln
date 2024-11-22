@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "242_Valid_Anagram", "242_Va
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1929_ConcatenationofArray", "1929_ConcatenationofArray\1929_ConcatenationofArray.csproj", "{0C09624C-8EFD-44CB-BB2B-1D1EA399C0BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1299_ReplaceElementswithGreatestElementonRightSide", "1299_ReplaceElementswithGreatestElementonRightSide\1299_ReplaceElementswithGreatestElementonRightSide.csproj", "{7C6135D2-34EF-4731-AC00-CF6B08FD133D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{0C09624C-8EFD-44CB-BB2B-1D1EA399C0BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C09624C-8EFD-44CB-BB2B-1D1EA399C0BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C09624C-8EFD-44CB-BB2B-1D1EA399C0BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C6135D2-34EF-4731-AC00-CF6B08FD133D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6135D2-34EF-4731-AC00-CF6B08FD133D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6135D2-34EF-4731-AC00-CF6B08FD133D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6135D2-34EF-4731-AC00-CF6B08FD133D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
