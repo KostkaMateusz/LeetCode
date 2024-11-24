@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "58_LengthofLastWord", "58_L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_TwoSum", "1_TwoSum\1_TwoSum.csproj", "{F48B1FDB-BC0E-420A-AAAF-FA934A41D6E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "118_PascalsTriangle", "118_PascalsTriangle\118_PascalsTriangle.csproj", "{6AF2B7BE-739E-4E11-BDCB-C4F4F5292CE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{F48B1FDB-BC0E-420A-AAAF-FA934A41D6E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F48B1FDB-BC0E-420A-AAAF-FA934A41D6E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F48B1FDB-BC0E-420A-AAAF-FA934A41D6E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF2B7BE-739E-4E11-BDCB-C4F4F5292CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF2B7BE-739E-4E11-BDCB-C4F4F5292CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF2B7BE-739E-4E11-BDCB-C4F4F5292CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF2B7BE-739E-4E11-BDCB-C4F4F5292CE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
