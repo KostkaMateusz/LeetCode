@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "49_GroupAnagrams", "49_Grou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1189_MaximumNumberofBalloons", "1189_MaximumNumberofBalloons\1189_MaximumNumberofBalloons.csproj", "{B12016A4-CE2A-4014-A0F8-FD0F7516041F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "896_MonotonicArray", "896_MonotonicArray\896_MonotonicArray.csproj", "{00F8E8BA-34DF-4D07-BEDD-7F08066FF2A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,5 +99,9 @@ Global
 		{B12016A4-CE2A-4014-A0F8-FD0F7516041F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B12016A4-CE2A-4014-A0F8-FD0F7516041F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B12016A4-CE2A-4014-A0F8-FD0F7516041F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00F8E8BA-34DF-4D07-BEDD-7F08066FF2A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00F8E8BA-34DF-4D07-BEDD-7F08066FF2A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00F8E8BA-34DF-4D07-BEDD-7F08066FF2A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00F8E8BA-34DF-4D07-BEDD-7F08066FF2A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
