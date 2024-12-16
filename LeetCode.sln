@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27_RemoveElement", "27_Remo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2264_Largest3SameDigitNumberinString", "2264_Largest3SameDigitNumberinString\2264_Largest3SameDigitNumberinString.csproj", "{8F9102E2-EFA6-476A-A13C-16792CAFB8C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1436_DestinationCity", "1436_DestinationCity\1436_DestinationCity.csproj", "{F4B8B835-36EE-4F95-ACFB-A881F4CECBE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -121,5 +123,9 @@ Global
 		{8F9102E2-EFA6-476A-A13C-16792CAFB8C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F9102E2-EFA6-476A-A13C-16792CAFB8C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F9102E2-EFA6-476A-A13C-16792CAFB8C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B8B835-36EE-4F95-ACFB-A881F4CECBE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B8B835-36EE-4F95-ACFB-A881F4CECBE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B8B835-36EE-4F95-ACFB-A881F4CECBE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B8B835-36EE-4F95-ACFB-A881F4CECBE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
