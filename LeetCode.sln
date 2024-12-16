@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1913_MaximumProductDifferen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1422_MaximumScoreAfterSplittingaString", "1422_MaximumScoreAfterSplittingaString\1422_MaximumScoreAfterSplittingaString.csproj", "{4FF6213B-9AC7-4928-945B-56DAE8F73527}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1496_PathCrossing", "1496_PathCrossing\1496_PathCrossing.csproj", "{626A3DB8-7155-4385-8671-A0CC01BF1AE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -139,5 +141,9 @@ Global
 		{4FF6213B-9AC7-4928-945B-56DAE8F73527}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FF6213B-9AC7-4928-945B-56DAE8F73527}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FF6213B-9AC7-4928-945B-56DAE8F73527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{626A3DB8-7155-4385-8671-A0CC01BF1AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626A3DB8-7155-4385-8671-A0CC01BF1AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626A3DB8-7155-4385-8671-A0CC01BF1AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626A3DB8-7155-4385-8671-A0CC01BF1AE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
