@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-#
+# 
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "217_ContainsDuplicate", "217_ContainsDuplicate\217_ContainsDuplicate.csproj", "{A73E2809-0BC8-44A6-964F-E32069D81DE8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "242_Valid_Anagram", "242_Valid_Anagram\242_Valid_Anagram.csproj", "{CBE30C70-98A0-4CE4-BB70-AF13EC9D5B22}"
@@ -48,6 +48,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1496_PathCrossing", "1496_PathCrossing\1496_PathCrossing.csproj", "{626A3DB8-7155-4385-8671-A0CC01BF1AE0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "929_UniqueEmailAddresses", "929_UniqueEmailAddresses\929_UniqueEmailAddresses.csproj", "{97E1653C-49C4-4133-BA38-651D974BECB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "205_IsomorphicStrings", "205_IsomorphicStrings\205_IsomorphicStrings.csproj", "{E5BE2FC7-0C3B-407B-BA72-78A2CAD59D75}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -151,5 +153,9 @@ Global
 		{97E1653C-49C4-4133-BA38-651D974BECB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97E1653C-49C4-4133-BA38-651D974BECB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97E1653C-49C4-4133-BA38-651D974BECB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5BE2FC7-0C3B-407B-BA72-78A2CAD59D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5BE2FC7-0C3B-407B-BA72-78A2CAD59D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5BE2FC7-0C3B-407B-BA72-78A2CAD59D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5BE2FC7-0C3B-407B-BA72-78A2CAD59D75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
