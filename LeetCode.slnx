@@ -16,6 +16,7 @@
   <Project Path="2264_Largest3SameDigitNumberinString\2264_Largest3SameDigitNumberinString.csproj" Type="Classic C#" />
   <Project Path="242_Valid_Anagram\242_Valid_Anagram.csproj" Type="Classic C#" />
   <Project Path="27_RemoveElement\27_RemoveElement.csproj" Type="Classic C#" />
+  <Project Path="303_RangeSumQueryImmutable\303_RangeSumQueryImmutable.csproj" Type="Classic C#" />
   <Project Path="392_IsSubsequence\392_IsSubsequence.csproj" Type="Classic C#" />
   <Project Path="49_GroupAnagrams\49_GroupAnagrams.csproj" Type="Classic C#" />
   <Project Path="58_LengthofLastWord\58_LengthofLastWord.csproj" Type="Classic C#" />
