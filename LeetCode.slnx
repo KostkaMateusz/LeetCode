@@ -1,0 +1,27 @@
+﻿<Solution>
+  <Project Path="1189_MaximumNumberofBalloons\1189_MaximumNumberofBalloons.csproj" Type="Classic C#" />
+  <Project Path="118_PascalsTriangle\118_PascalsTriangle.csproj" Type="Classic C#" />
+  <Project Path="1299_ReplaceElementswithGreatestElementonRightSide\1299_ReplaceElementswithGreatestElementonRightSide.csproj" Type="Classic C#" />
+  <Project Path="1422_MaximumScoreAfterSplittingaString\1422_MaximumScoreAfterSplittingaString.csproj" Type="Classic C#" />
+  <Project Path="1436_DestinationCity\1436_DestinationCity.csproj" Type="Classic C#" />
+  <Project Path="1496_PathCrossing\1496_PathCrossing.csproj" Type="Classic C#" />
+  <Project Path="14_LongestCommonPrefix\14_LongestCommonPrefix.csproj" Type="Classic C#" />
+  <Project Path="1512_NumberofGoodPairs\1512_NumberofGoodPairs.csproj" Type="Classic C#" />
+  <Project Path="169_MajorityElement\169_MajorityElement.csproj" Type="Classic C#" />
+  <Project Path="1913_MaximumProductDifferenceBetweenTwoPairs\1913_MaximumProductDifferenceBetweenTwoPairs.csproj" Type="Classic C#" />
+  <Project Path="1929_ConcatenationofArray\1929_ConcatenationofArray.csproj" Type="Classic C#" />
+  <Project Path="1_TwoSum\1_TwoSum.csproj" Type="Classic C#" />
+  <Project Path="205_IsomorphicStrings\205_IsomorphicStrings.csproj" Type="Classic C#" />
+  <Project Path="217_ContainsDuplicate\217_ContainsDuplicate.csproj" Type="Classic C#" />
+  <Project Path="2264_Largest3SameDigitNumberinString\2264_Largest3SameDigitNumberinString.csproj" Type="Classic C#" />
+  <Project Path="242_Valid_Anagram\242_Valid_Anagram.csproj" Type="Classic C#" />
+  <Project Path="27_RemoveElement\27_RemoveElement.csproj" Type="Classic C#" />
+  <Project Path="392_IsSubsequence\392_IsSubsequence.csproj" Type="Classic C#" />
+  <Project Path="49_GroupAnagrams\49_GroupAnagrams.csproj" Type="Classic C#" />
+  <Project Path="58_LengthofLastWord\58_LengthofLastWord.csproj" Type="Classic C#" />
+  <Project Path="605_CanPlaceFlowers\605_CanPlaceFlowers.csproj" Type="Classic C#" />
+  <Project Path="706_DesignHashMap\706_DesignHashMap.csproj" Type="Classic C#" />
+  <Project Path="724_FindPivotIndex\724_FindPivotIndex.csproj" Type="Classic C#" />
+  <Project Path="896_MonotonicArray\896_MonotonicArray.csproj" Type="Classic C#" />
+  <Project Path="929_UniqueEmailAddresses\929_UniqueEmailAddresses.csproj" Type="Classic C#" />
+</Solution>
