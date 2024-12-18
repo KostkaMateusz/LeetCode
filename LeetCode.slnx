@@ -1,4 +1,5 @@
 ﻿<Solution>
+  <Project Path="1160_FindWordsThatCanBeFormedbyCharacters\1160_FindWordsThatCanBeFormedbyCharacters.csproj" Type="Classic C#" />
   <Project Path="1189_MaximumNumberofBalloons\1189_MaximumNumberofBalloons.csproj" Type="Classic C#" />
   <Project Path="118_PascalsTriangle\118_PascalsTriangle.csproj" Type="Classic C#" />
   <Project Path="1299_ReplaceElementswithGreatestElementonRightSide\1299_ReplaceElementswithGreatestElementonRightSide.csproj" Type="Classic C#" />
