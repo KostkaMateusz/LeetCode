@@ -9,6 +9,7 @@
   <Project Path="1496_PathCrossing\1496_PathCrossing.csproj" Type="Classic C#" />
   <Project Path="14_LongestCommonPrefix\14_LongestCommonPrefix.csproj" Type="Classic C#" />
   <Project Path="1512_NumberofGoodPairs\1512_NumberofGoodPairs.csproj" Type="Classic C#" />
+  <Project Path="1608_SpecialArrayWithXElementsGreaterThanorEqualX\1608_SpecialArrayWithXElementsGreaterThanorEqualX.csproj" Type="Classic C#" />
   <Project Path="1624_LargestSubstringBetweenTwoEqualCharacters\1624_LargestSubstringBetweenTwoEqualCharacters.csproj" Type="Classic C#" />
   <Project Path="169_MajorityElement\169_MajorityElement.csproj" Type="Classic C#" />
   <Project Path="1758_MinimumChangesToMakeAlternatingBinaryString\1758_MinimumChangesToMakeAlternatingBinaryString.csproj" Type="Classic C#" />
