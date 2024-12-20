@@ -30,6 +30,7 @@
   <Project Path="387_FirstUniqueCharacterinaString\387_FirstUniqueCharacterinaString.csproj" Type="Classic C#" />
   <Project Path="392_IsSubsequence\392_IsSubsequence.csproj" Type="Classic C#" />
   <Project Path="448_FindAllNumbersDisappearedinanArray\448_FindAllNumbersDisappearedinanArray.csproj" Type="Classic C#" />
+  <Project Path="496_NextGreaterElementI\496_NextGreaterElementI.csproj" Type="Classic C#" />
   <Project Path="49_GroupAnagrams\49_GroupAnagrams.csproj" Type="Classic C#" />
   <Project Path="58_LengthofLastWord\58_LengthofLastWord.csproj" Type="Classic C#" />
   <Project Path="605_CanPlaceFlowers\605_CanPlaceFlowers.csproj" Type="Classic C#" />
