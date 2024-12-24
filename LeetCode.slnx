@@ -22,6 +22,7 @@
   <Project Path="2073_TimeNeededtoBuyTickets\2073_TimeNeededtoBuyTickets.csproj" Type="Classic C#" />
   <Project Path="217_ContainsDuplicate\217_ContainsDuplicate.csproj" Type="Classic C#" />
   <Project Path="2264_Largest3SameDigitNumberinString\2264_Largest3SameDigitNumberinString.csproj" Type="Classic C#" />
+  <Project Path="238_ProductofArrayExceptSelf\238_ProductofArrayExceptSelf.csproj" Type="Classic C#" />
   <Project Path="242_Valid_Anagram\242_Valid_Anagram.csproj" Type="Classic C#" />
   <Project Path="27_RemoveElement\27_RemoveElement.csproj" Type="Classic C#" />
   <Project Path="290_WordPattern\290_WordPattern.csproj" Type="Classic C#" />
