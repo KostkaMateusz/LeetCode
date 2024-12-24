@@ -41,6 +41,7 @@
   <Project Path="705_DesignHashSet\705_DesignHashSet.csproj" Type="Classic C#" />
   <Project Path="706_DesignHashMap\706_DesignHashMap.csproj" Type="Classic C#" />
   <Project Path="724_FindPivotIndex\724_FindPivotIndex.csproj" Type="Classic C#" />
+  <Project Path="75_SortColors\75_SortColors.csproj" Type="Classic C#" />
   <Project Path="896_MonotonicArray\896_MonotonicArray.csproj" Type="Classic C#" />
   <Project Path="912_SortanArray\912_SortanArray.csproj" Type="Classic C#" />
   <Project Path="929_UniqueEmailAddresses\929_UniqueEmailAddresses.csproj" Type="Classic C#" />
