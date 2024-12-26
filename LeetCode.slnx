@@ -3,6 +3,7 @@
   <Project Path="1189_MaximumNumberofBalloons\1189_MaximumNumberofBalloons.csproj" Type="Classic C#" />
   <Project Path="118_PascalsTriangle\118_PascalsTriangle.csproj" Type="Classic C#" />
   <Project Path="119_PascalsTriangleII\119_PascalsTriangleII.csproj" Type="Classic C#" />
+  <Project Path="122_BestTimetoBuyandSellStockII\122_BestTimetoBuyandSellStockII.csproj" Type="Classic C#" />
   <Project Path="128_LongestConsecutiveSequence\128_LongestConsecutiveSequence.csproj" Type="Classic C#" />
   <Project Path="1299_ReplaceElementswithGreatestElementonRightSide\1299_ReplaceElementswithGreatestElementonRightSide.csproj" Type="Classic C#" />
   <Project Path="1422_MaximumScoreAfterSplittingaString\1422_MaximumScoreAfterSplittingaString.csproj" Type="Classic C#" />
@@ -18,6 +19,7 @@
   <Project Path="1897_RedistributeCharacterstoMakeAllStringsEqual\1897_RedistributeCharacterstoMakeAllStringsEqual.csproj" Type="Classic C#" />
   <Project Path="1913_MaximumProductDifferenceBetweenTwoPairs\1913_MaximumProductDifferenceBetweenTwoPairs.csproj" Type="Classic C#" />
   <Project Path="1929_ConcatenationofArray\1929_ConcatenationofArray.csproj" Type="Classic C#" />
+  <Project Path="1930_UniqueLength3PalindromicSubsequences\1930_UniqueLength3PalindromicSubsequences.csproj" Type="Classic C#" />
   <Project Path="1_TwoSum\1_TwoSum.csproj" Type="Classic C#" />
   <Project Path="205_IsomorphicStrings\205_IsomorphicStrings.csproj" Type="Classic C#" />
   <Project Path="2073_TimeNeededtoBuyTickets\2073_TimeNeededtoBuyTickets.csproj" Type="Classic C#" />
