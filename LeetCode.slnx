@@ -36,6 +36,7 @@
   <Project Path="496_NextGreaterElementI\496_NextGreaterElementI.csproj" Type="Classic C#" />
   <Project Path="49_GroupAnagrams\49_GroupAnagrams.csproj" Type="Classic C#" />
   <Project Path="554_BrickWall\554_BrickWall.csproj" Type="Classic C#" />
+  <Project Path="560_SubarraySumEqualsK\560_SubarraySumEqualsK.csproj" Type="Classic C#" />
   <Project Path="58_LengthofLastWord\58_LengthofLastWord.csproj" Type="Classic C#" />
   <Project Path="605_CanPlaceFlowers\605_CanPlaceFlowers.csproj" Type="Classic C#" />
   <Project Path="645_SetMismatch\645_SetMismatch.csproj" Type="Classic C#" />
