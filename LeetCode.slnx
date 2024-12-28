@@ -22,6 +22,7 @@
   <Project Path="1930_UniqueLength3PalindromicSubsequences\1930_UniqueLength3PalindromicSubsequences.csproj" Type="Classic C#" />
   <Project Path="1963_MinimumNumberofSwapstoMaketheStringBalanced\1963_MinimumNumberofSwapstoMaketheStringBalanced.csproj" Type="Classic C#" />
   <Project Path="1_TwoSum\1_TwoSum.csproj" Type="Classic C#" />
+  <Project Path="2001_NumberofPairsofInterchangeableRectangles\2001_NumberofPairsofInterchangeableRectangles.csproj" Type="Classic C#" />
   <Project Path="205_IsomorphicStrings\205_IsomorphicStrings.csproj" Type="Classic C#" />
   <Project Path="2073_TimeNeededtoBuyTickets\2073_TimeNeededtoBuyTickets.csproj" Type="Classic C#" />
   <Project Path="217_ContainsDuplicate\217_ContainsDuplicate.csproj" Type="Classic C#" />
