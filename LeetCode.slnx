@@ -48,6 +48,7 @@
   <Project Path="448_FindAllNumbersDisappearedinanArray\448_FindAllNumbersDisappearedinanArray.csproj" Type="Classic C#" />
   <Project Path="496_NextGreaterElementI\496_NextGreaterElementI.csproj" Type="Classic C#" />
   <Project Path="49_GroupAnagrams\49_GroupAnagrams.csproj" Type="Classic C#" />
+  <Project Path="525_ContiguousArray\525_ContiguousArray.csproj" Type="Classic C#" />
   <Project Path="554_BrickWall\554_BrickWall.csproj" Type="Classic C#" />
   <Project Path="560_SubarraySumEqualsK\560_SubarraySumEqualsK.csproj" Type="Classic C#" />
   <Project Path="58_LengthofLastWord\58_LengthofLastWord.csproj" Type="Classic C#" />
