@@ -50,6 +50,7 @@
   <Project Path="438_FindAllAnagramsinaString\438_FindAllAnagramsinaString.csproj" Type="Classic C#" />
   <Project Path="442_FindAllDuplicatesinanArray\442_FindAllDuplicatesinanArray.csproj" Type="Classic C#" />
   <Project Path="448_FindAllNumbersDisappearedinanArray\448_FindAllNumbersDisappearedinanArray.csproj" Type="Classic C#" />
+  <Project Path="451_SortCharactersByFrequency\451_SortCharactersByFrequency.csproj" Type="Classic C#" />
   <Project Path="496_NextGreaterElementI\496_NextGreaterElementI.csproj" Type="Classic C#" />
   <Project Path="49_GroupAnagrams\49_GroupAnagrams.csproj" Type="Classic C#" />
   <Project Path="525_ContiguousArray\525_ContiguousArray.csproj" Type="Classic C#" />
