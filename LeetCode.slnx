@@ -5,6 +5,7 @@
   <Project Path="119_PascalsTriangleII\119_PascalsTriangleII.csproj" Type="Classic C#" />
   <Project Path="122_BestTimetoBuyandSellStockII\122_BestTimetoBuyandSellStockII.csproj" Type="Classic C#" />
   <Project Path="128_LongestConsecutiveSequence\128_LongestConsecutiveSequence.csproj" Type="Classic C#" />
+  <Project Path="1291_SequentialDigits\1291_SequentialDigits.csproj" Type="Classic C#" />
   <Project Path="1299_ReplaceElementswithGreatestElementonRightSide\1299_ReplaceElementswithGreatestElementonRightSide.csproj" Type="Classic C#" />
   <Project Path="1396_DesignUndergroundSystem\1396_DesignUndergroundSystem.csproj" Type="Classic C#" />
   <Project Path="1422_MaximumScoreAfterSplittingaString\1422_MaximumScoreAfterSplittingaString.csproj" Type="Classic C#" />
