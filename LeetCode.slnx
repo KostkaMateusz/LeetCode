@@ -38,6 +38,7 @@
   <Project Path="2405_OptimalPartitionofString\2405_OptimalPartitionofString.csproj" Type="Classic C#" />
   <Project Path="242_Valid_Anagram\242_Valid_Anagram.csproj" Type="Classic C#" />
   <Project Path="2610_ConvertanArrayIntoa2DArrayWithConditions\2610_ConvertanArrayIntoa2DArrayWithConditions.csproj" Type="Classic C#" />
+  <Project Path="271_EncodeandDecodeStrings\271_EncodeandDecodeStrings.csproj" Type="Classic C#" />
   <Project Path="27_RemoveElement\27_RemoveElement.csproj" Type="Classic C#" />
   <Project Path="2870_MinimumNumberofOperationstoMakeArrayEmpty\2870_MinimumNumberofOperationstoMakeArrayEmpty.csproj" Type="Classic C#" />
   <Project Path="28_FindtheIndexoftheFirstOccurrenceinaString\28_FindtheIndexoftheFirstOccurrenceinaString.csproj" Type="Classic C#" />
