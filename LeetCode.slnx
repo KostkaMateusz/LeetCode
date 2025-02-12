@@ -16,6 +16,7 @@
   <Project Path="1603_DesignParkingSystem\1603_DesignParkingSystem.csproj" Type="Classic C#" />
   <Project Path="1608_SpecialArrayWithXElementsGreaterThanorEqualX\1608_SpecialArrayWithXElementsGreaterThanorEqualX.csproj" Type="Classic C#" />
   <Project Path="1624_LargestSubstringBetweenTwoEqualCharacters\1624_LargestSubstringBetweenTwoEqualCharacters.csproj" Type="Classic C#" />
+  <Project Path="1685_SumofAbsoluteDifferencesinaSortedArray\1685_SumofAbsoluteDifferencesinaSortedArray.csproj" Type="Classic C#" />
   <Project Path="169_MajorityElement\169_MajorityElement.csproj" Type="Classic C#" />
   <Project Path="1700_NumberofStudentsUnabletoEatLunch\1700_NumberofStudentsUnabletoEatLunch.csproj" Type="Classic C#" />
   <Project Path="1758_MinimumChangesToMakeAlternatingBinaryString\1758_MinimumChangesToMakeAlternatingBinaryString.csproj" Type="Classic C#" />
@@ -46,6 +47,7 @@
   <Project Path="2966_DivideArrayIntoArraysWithMaxDifference\2966_DivideArrayIntoArraysWithMaxDifference.csproj" Type="Classic C#" />
   <Project Path="303_RangeSumQueryImmutable\303_RangeSumQueryImmutable.csproj" Type="Classic C#" />
   <Project Path="304_RangeSumQuery2DImmutable\304_RangeSumQuery2DImmutable.csproj" Type="Classic C#" />
+  <Project Path="3289_TheTwoSneakyNumbersofDigitville\3289_TheTwoSneakyNumbersofDigitville.csproj" Type="Classic C#" />
   <Project Path="347_TopKFrequentElements\347_TopKFrequentElements.csproj" Type="Classic C#" />
   <Project Path="349_IntersectionofTwoArrays\349_IntersectionofTwoArrays.csproj" Type="Classic C#" />
   <Project Path="36_ValidSudoku\36_ValidSudoku.csproj" Type="Classic C#" />
