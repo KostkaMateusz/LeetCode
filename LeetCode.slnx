@@ -74,4 +74,5 @@
   <Project Path="896_MonotonicArray\896_MonotonicArray.csproj" Type="Classic C#" />
   <Project Path="912_SortanArray\912_SortanArray.csproj" Type="Classic C#" />
   <Project Path="929_UniqueEmailAddresses\929_UniqueEmailAddresses.csproj" Type="Classic C#" />
+  <Project Path="9_PalindromeNumber\9_PalindromeNumber.csproj" Type="Classic C#" />
 </Solution>
