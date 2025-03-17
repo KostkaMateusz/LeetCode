@@ -49,6 +49,7 @@
   <Project Path="303_RangeSumQueryImmutable\303_RangeSumQueryImmutable.csproj" Type="Classic C#" />
   <Project Path="304_RangeSumQuery2DImmutable\304_RangeSumQuery2DImmutable.csproj" Type="Classic C#" />
   <Project Path="3289_TheTwoSneakyNumbersofDigitville\3289_TheTwoSneakyNumbersofDigitville.csproj" Type="Classic C#" />
+  <Project Path="344_ReverseString\344_ReverseString.csproj" Type="Classic C#" />
   <Project Path="347_TopKFrequentElements\347_TopKFrequentElements.csproj" Type="Classic C#" />
   <Project Path="349_IntersectionofTwoArrays\349_IntersectionofTwoArrays.csproj" Type="Classic C#" />
   <Project Path="36_ValidSudoku\36_ValidSudoku.csproj" Type="Classic C#" />
