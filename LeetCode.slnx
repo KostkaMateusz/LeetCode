@@ -69,6 +69,7 @@
   <Project Path="58_LengthofLastWord\58_LengthofLastWord.csproj" Type="Classic C#" />
   <Project Path="605_CanPlaceFlowers\605_CanPlaceFlowers.csproj" Type="Classic C#" />
   <Project Path="645_SetMismatch\645_SetMismatch.csproj" Type="Classic C#" />
+  <Project Path="680_ValidPalindromeII\680_ValidPalindromeII.csproj" Type="Classic C#" />
   <Project Path="705_DesignHashSet\705_DesignHashSet.csproj" Type="Classic C#" />
   <Project Path="706_DesignHashMap\706_DesignHashMap.csproj" Type="Classic C#" />
   <Project Path="724_FindPivotIndex\724_FindPivotIndex.csproj" Type="Classic C#" />
