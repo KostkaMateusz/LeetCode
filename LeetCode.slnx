@@ -1,81 +1,82 @@
-﻿<Solution>
-  <Project Path="1160_FindWordsThatCanBeFormedbyCharacters\1160_FindWordsThatCanBeFormedbyCharacters.csproj" Type="Classic C#" />
-  <Project Path="1189_MaximumNumberofBalloons\1189_MaximumNumberofBalloons.csproj" Type="Classic C#" />
-  <Project Path="118_PascalsTriangle\118_PascalsTriangle.csproj" Type="Classic C#" />
-  <Project Path="119_PascalsTriangleII\119_PascalsTriangleII.csproj" Type="Classic C#" />
-  <Project Path="122_BestTimetoBuyandSellStockII\122_BestTimetoBuyandSellStockII.csproj" Type="Classic C#" />
-  <Project Path="125_ValidPalindrome\125_ValidPalindrome.csproj" Type="Classic C#" />
-  <Project Path="128_LongestConsecutiveSequence\128_LongestConsecutiveSequence.csproj" Type="Classic C#" />
-  <Project Path="1291_SequentialDigits\1291_SequentialDigits.csproj" Type="Classic C#" />
-  <Project Path="1299_ReplaceElementswithGreatestElementonRightSide\1299_ReplaceElementswithGreatestElementonRightSide.csproj" Type="Classic C#" />
-  <Project Path="136_SingleNumber\136_SingleNumber.csproj" Type="Classic C#" />
-  <Project Path="1396_DesignUndergroundSystem\1396_DesignUndergroundSystem.csproj" Type="Classic C#" />
-  <Project Path="1422_MaximumScoreAfterSplittingaString\1422_MaximumScoreAfterSplittingaString.csproj" Type="Classic C#" />
-  <Project Path="1436_DestinationCity\1436_DestinationCity.csproj" Type="Classic C#" />
-  <Project Path="1496_PathCrossing\1496_PathCrossing.csproj" Type="Classic C#" />
-  <Project Path="14_LongestCommonPrefix\14_LongestCommonPrefix.csproj" Type="Classic C#" />
-  <Project Path="1512_NumberofGoodPairs\1512_NumberofGoodPairs.csproj" Type="Classic C#" />
-  <Project Path="1603_DesignParkingSystem\1603_DesignParkingSystem.csproj" Type="Classic C#" />
-  <Project Path="1608_SpecialArrayWithXElementsGreaterThanorEqualX\1608_SpecialArrayWithXElementsGreaterThanorEqualX.csproj" Type="Classic C#" />
-  <Project Path="1624_LargestSubstringBetweenTwoEqualCharacters\1624_LargestSubstringBetweenTwoEqualCharacters.csproj" Type="Classic C#" />
-  <Project Path="1685_SumofAbsoluteDifferencesinaSortedArray\1685_SumofAbsoluteDifferencesinaSortedArray.csproj" Type="Classic C#" />
-  <Project Path="169_MajorityElement\169_MajorityElement.csproj" Type="Classic C#" />
-  <Project Path="1700_NumberofStudentsUnabletoEatLunch\1700_NumberofStudentsUnabletoEatLunch.csproj" Type="Classic C#" />
-  <Project Path="1758_MinimumChangesToMakeAlternatingBinaryString\1758_MinimumChangesToMakeAlternatingBinaryString.csproj" Type="Classic C#" />
-  <Project Path="179_LargestNumber\179_LargestNumber.csproj" Type="Classic C#" />
-  <Project Path="1822_SignoftheProductofanArray\1822_SignoftheProductofanArray.csproj" Type="Classic C#" />
-  <Project Path="1897_RedistributeCharacterstoMakeAllStringsEqual\1897_RedistributeCharacterstoMakeAllStringsEqual.csproj" Type="Classic C#" />
-  <Project Path="1913_MaximumProductDifferenceBetweenTwoPairs\1913_MaximumProductDifferenceBetweenTwoPairs.csproj" Type="Classic C#" />
-  <Project Path="1929_ConcatenationofArray\1929_ConcatenationofArray.csproj" Type="Classic C#" />
-  <Project Path="1930_UniqueLength3PalindromicSubsequences\1930_UniqueLength3PalindromicSubsequences.csproj" Type="Classic C#" />
-  <Project Path="1963_MinimumNumberofSwapstoMaketheStringBalanced\1963_MinimumNumberofSwapstoMaketheStringBalanced.csproj" Type="Classic C#" />
-  <Project Path="1_TwoSum\1_TwoSum.csproj" Type="Classic C#" />
-  <Project Path="2001_NumberofPairsofInterchangeableRectangles\2001_NumberofPairsofInterchangeableRectangles.csproj" Type="Classic C#" />
-  <Project Path="205_IsomorphicStrings\205_IsomorphicStrings.csproj" Type="Classic C#" />
-  <Project Path="2073_TimeNeededtoBuyTickets\2073_TimeNeededtoBuyTickets.csproj" Type="Classic C#" />
-  <Project Path="217_ContainsDuplicate\217_ContainsDuplicate.csproj" Type="Classic C#" />
-  <Project Path="2215_FindtheDifferenceofTwoArrays\2215_FindtheDifferenceofTwoArrays.csproj" Type="Classic C#" />
-  <Project Path="2264_Largest3SameDigitNumberinString\2264_Largest3SameDigitNumberinString.csproj" Type="Classic C#" />
-  <Project Path="2348_NumberofZeroFilledSubarrays\2348_NumberofZeroFilledSubarrays.csproj" Type="Classic C#" />
-  <Project Path="238_ProductofArrayExceptSelf\238_ProductofArrayExceptSelf.csproj" Type="Classic C#" />
-  <Project Path="2405_OptimalPartitionofString\2405_OptimalPartitionofString.csproj" Type="Classic C#" />
-  <Project Path="242_Valid_Anagram\242_Valid_Anagram.csproj" Type="Classic C#" />
-  <Project Path="2610_ConvertanArrayIntoa2DArrayWithConditions\2610_ConvertanArrayIntoa2DArrayWithConditions.csproj" Type="Classic C#" />
-  <Project Path="271_EncodeandDecodeStrings\271_EncodeandDecodeStrings.csproj" Type="Classic C#" />
-  <Project Path="27_RemoveElement\27_RemoveElement.csproj" Type="Classic C#" />
-  <Project Path="2870_MinimumNumberofOperationstoMakeArrayEmpty\2870_MinimumNumberofOperationstoMakeArrayEmpty.csproj" Type="Classic C#" />
-  <Project Path="28_FindtheIndexoftheFirstOccurrenceinaString\28_FindtheIndexoftheFirstOccurrenceinaString.csproj" Type="Classic C#" />
-  <Project Path="290_WordPattern\290_WordPattern.csproj" Type="Classic C#" />
-  <Project Path="2966_DivideArrayIntoArraysWithMaxDifference\2966_DivideArrayIntoArraysWithMaxDifference.csproj" Type="Classic C#" />
-  <Project Path="303_RangeSumQueryImmutable\303_RangeSumQueryImmutable.csproj" Type="Classic C#" />
-  <Project Path="304_RangeSumQuery2DImmutable\304_RangeSumQuery2DImmutable.csproj" Type="Classic C#" />
-  <Project Path="3289_TheTwoSneakyNumbersofDigitville\3289_TheTwoSneakyNumbersofDigitville.csproj" Type="Classic C#" />
-  <Project Path="344_ReverseString\344_ReverseString.csproj" Type="Classic C#" />
-  <Project Path="347_TopKFrequentElements\347_TopKFrequentElements.csproj" Type="Classic C#" />
-  <Project Path="349_IntersectionofTwoArrays\349_IntersectionofTwoArrays.csproj" Type="Classic C#" />
-  <Project Path="36_ValidSudoku\36_ValidSudoku.csproj" Type="Classic C#" />
-  <Project Path="380_InsertDeleteGetRandom\380_InsertDeleteGetRandom.csproj" Type="Classic C#" />
-  <Project Path="387_FirstUniqueCharacterinaString\387_FirstUniqueCharacterinaString.csproj" Type="Classic C#" />
-  <Project Path="392_IsSubsequence\392_IsSubsequence.csproj" Type="Classic C#" />
-  <Project Path="438_FindAllAnagramsinaString\438_FindAllAnagramsinaString.csproj" Type="Classic C#" />
-  <Project Path="442_FindAllDuplicatesinanArray\442_FindAllDuplicatesinanArray.csproj" Type="Classic C#" />
-  <Project Path="448_FindAllNumbersDisappearedinanArray\448_FindAllNumbersDisappearedinanArray.csproj" Type="Classic C#" />
-  <Project Path="451_SortCharactersByFrequency\451_SortCharactersByFrequency.csproj" Type="Classic C#" />
-  <Project Path="496_NextGreaterElementI\496_NextGreaterElementI.csproj" Type="Classic C#" />
-  <Project Path="49_GroupAnagrams\49_GroupAnagrams.csproj" Type="Classic C#" />
-  <Project Path="525_ContiguousArray\525_ContiguousArray.csproj" Type="Classic C#" />
-  <Project Path="554_BrickWall\554_BrickWall.csproj" Type="Classic C#" />
-  <Project Path="560_SubarraySumEqualsK\560_SubarraySumEqualsK.csproj" Type="Classic C#" />
-  <Project Path="58_LengthofLastWord\58_LengthofLastWord.csproj" Type="Classic C#" />
-  <Project Path="605_CanPlaceFlowers\605_CanPlaceFlowers.csproj" Type="Classic C#" />
-  <Project Path="645_SetMismatch\645_SetMismatch.csproj" Type="Classic C#" />
-  <Project Path="680_ValidPalindromeII\680_ValidPalindromeII.csproj" Type="Classic C#" />
-  <Project Path="705_DesignHashSet\705_DesignHashSet.csproj" Type="Classic C#" />
-  <Project Path="706_DesignHashMap\706_DesignHashMap.csproj" Type="Classic C#" />
-  <Project Path="724_FindPivotIndex\724_FindPivotIndex.csproj" Type="Classic C#" />
-  <Project Path="75_SortColors\75_SortColors.csproj" Type="Classic C#" />
-  <Project Path="896_MonotonicArray\896_MonotonicArray.csproj" Type="Classic C#" />
-  <Project Path="912_SortanArray\912_SortanArray.csproj" Type="Classic C#" />
-  <Project Path="929_UniqueEmailAddresses\929_UniqueEmailAddresses.csproj" Type="Classic C#" />
-  <Project Path="9_PalindromeNumber\9_PalindromeNumber.csproj" Type="Classic C#" />
+<Solution>
+  <Project Path="1160_FindWordsThatCanBeFormedbyCharacters\1160_FindWordsThatCanBeFormedbyCharacters.csproj" Type="C#" />
+  <Project Path="1189_MaximumNumberofBalloons\1189_MaximumNumberofBalloons.csproj" Type="C#" />
+  <Project Path="118_PascalsTriangle\118_PascalsTriangle.csproj" Type="C#" />
+  <Project Path="119_PascalsTriangleII\119_PascalsTriangleII.csproj" Type="C#" />
+  <Project Path="122_BestTimetoBuyandSellStockII\122_BestTimetoBuyandSellStockII.csproj" Type="C#" />
+  <Project Path="125_ValidPalindrome\125_ValidPalindrome.csproj" Type="C#" />
+  <Project Path="128_LongestConsecutiveSequence\128_LongestConsecutiveSequence.csproj" Type="C#" />
+  <Project Path="1291_SequentialDigits\1291_SequentialDigits.csproj" Type="C#" />
+  <Project Path="1299_ReplaceElementswithGreatestElementonRightSide\1299_ReplaceElementswithGreatestElementonRightSide.csproj" Type="C#" />
+  <Project Path="136_SingleNumber\136_SingleNumber.csproj" Type="C#" />
+  <Project Path="1396_DesignUndergroundSystem\1396_DesignUndergroundSystem.csproj" Type="C#" />
+  <Project Path="1422_MaximumScoreAfterSplittingaString\1422_MaximumScoreAfterSplittingaString.csproj" Type="C#" />
+  <Project Path="1436_DestinationCity\1436_DestinationCity.csproj" Type="C#" />
+  <Project Path="1496_PathCrossing\1496_PathCrossing.csproj" Type="C#" />
+  <Project Path="14_LongestCommonPrefix\14_LongestCommonPrefix.csproj" Type="C#" />
+  <Project Path="1512_NumberofGoodPairs\1512_NumberofGoodPairs.csproj" Type="C#" />
+  <Project Path="1603_DesignParkingSystem\1603_DesignParkingSystem.csproj" Type="C#" />
+  <Project Path="1608_SpecialArrayWithXElementsGreaterThanorEqualX\1608_SpecialArrayWithXElementsGreaterThanorEqualX.csproj" Type="C#" />
+  <Project Path="1624_LargestSubstringBetweenTwoEqualCharacters\1624_LargestSubstringBetweenTwoEqualCharacters.csproj" Type="C#" />
+  <Project Path="1685_SumofAbsoluteDifferencesinaSortedArray\1685_SumofAbsoluteDifferencesinaSortedArray.csproj" Type="C#" />
+  <Project Path="169_MajorityElement\169_MajorityElement.csproj" Type="C#" />
+  <Project Path="1700_NumberofStudentsUnabletoEatLunch\1700_NumberofStudentsUnabletoEatLunch.csproj" Type="C#" />
+  <Project Path="1758_MinimumChangesToMakeAlternatingBinaryString\1758_MinimumChangesToMakeAlternatingBinaryString.csproj" Type="C#" />
+  <Project Path="179_LargestNumber\179_LargestNumber.csproj" Type="C#" />
+  <Project Path="1822_SignoftheProductofanArray\1822_SignoftheProductofanArray.csproj" Type="C#" />
+  <Project Path="1897_RedistributeCharacterstoMakeAllStringsEqual\1897_RedistributeCharacterstoMakeAllStringsEqual.csproj" Type="C#" />
+  <Project Path="1913_MaximumProductDifferenceBetweenTwoPairs\1913_MaximumProductDifferenceBetweenTwoPairs.csproj" Type="C#" />
+  <Project Path="1929_ConcatenationofArray\1929_ConcatenationofArray.csproj" Type="C#" />
+  <Project Path="1930_UniqueLength3PalindromicSubsequences\1930_UniqueLength3PalindromicSubsequences.csproj" Type="C#" />
+  <Project Path="1963_MinimumNumberofSwapstoMaketheStringBalanced\1963_MinimumNumberofSwapstoMaketheStringBalanced.csproj" Type="C#" />
+  <Project Path="1_TwoSum\1_TwoSum.csproj" Type="C#" />
+  <Project Path="2001_NumberofPairsofInterchangeableRectangles\2001_NumberofPairsofInterchangeableRectangles.csproj" Type="C#" />
+  <Project Path="205_IsomorphicStrings\205_IsomorphicStrings.csproj" Type="C#" />
+  <Project Path="2073_TimeNeededtoBuyTickets\2073_TimeNeededtoBuyTickets.csproj" Type="C#" />
+  <Project Path="217_ContainsDuplicate\217_ContainsDuplicate.csproj" Type="C#" />
+  <Project Path="2215_FindtheDifferenceofTwoArrays\2215_FindtheDifferenceofTwoArrays.csproj" Type="C#" />
+  <Project Path="2264_Largest3SameDigitNumberinString\2264_Largest3SameDigitNumberinString.csproj" Type="C#" />
+  <Project Path="2348_NumberofZeroFilledSubarrays\2348_NumberofZeroFilledSubarrays.csproj" Type="C#" />
+  <Project Path="238_ProductofArrayExceptSelf\238_ProductofArrayExceptSelf.csproj" Type="C#" />
+  <Project Path="2405_OptimalPartitionofString\2405_OptimalPartitionofString.csproj" Type="C#" />
+  <Project Path="242_Valid_Anagram\242_Valid_Anagram.csproj" Type="C#" />
+  <Project Path="2610_ConvertanArrayIntoa2DArrayWithConditions\2610_ConvertanArrayIntoa2DArrayWithConditions.csproj" Type="C#" />
+  <Project Path="271_EncodeandDecodeStrings\271_EncodeandDecodeStrings.csproj" Type="C#" />
+  <Project Path="27_RemoveElement\27_RemoveElement.csproj" Type="C#" />
+  <Project Path="2870_MinimumNumberofOperationstoMakeArrayEmpty\2870_MinimumNumberofOperationstoMakeArrayEmpty.csproj" Type="C#" />
+  <Project Path="28_FindtheIndexoftheFirstOccurrenceinaString\28_FindtheIndexoftheFirstOccurrenceinaString.csproj" Type="C#" />
+  <Project Path="290_WordPattern\290_WordPattern.csproj" Type="C#" />
+  <Project Path="2966_DivideArrayIntoArraysWithMaxDifference\2966_DivideArrayIntoArraysWithMaxDifference.csproj" Type="C#" />
+  <Project Path="303_RangeSumQueryImmutable\303_RangeSumQueryImmutable.csproj" Type="C#" />
+  <Project Path="304_RangeSumQuery2DImmutable\304_RangeSumQuery2DImmutable.csproj" Type="C#" />
+  <Project Path="3110_ScoreofaString/3110_ScoreofaString.csproj" />
+  <Project Path="3289_TheTwoSneakyNumbersofDigitville\3289_TheTwoSneakyNumbersofDigitville.csproj" Type="C#" />
+  <Project Path="344_ReverseString\344_ReverseString.csproj" Type="C#" />
+  <Project Path="347_TopKFrequentElements\347_TopKFrequentElements.csproj" Type="C#" />
+  <Project Path="349_IntersectionofTwoArrays\349_IntersectionofTwoArrays.csproj" Type="C#" />
+  <Project Path="36_ValidSudoku\36_ValidSudoku.csproj" Type="C#" />
+  <Project Path="380_InsertDeleteGetRandom\380_InsertDeleteGetRandom.csproj" Type="C#" />
+  <Project Path="387_FirstUniqueCharacterinaString\387_FirstUniqueCharacterinaString.csproj" Type="C#" />
+  <Project Path="392_IsSubsequence\392_IsSubsequence.csproj" Type="C#" />
+  <Project Path="438_FindAllAnagramsinaString\438_FindAllAnagramsinaString.csproj" Type="C#" />
+  <Project Path="442_FindAllDuplicatesinanArray\442_FindAllDuplicatesinanArray.csproj" Type="C#" />
+  <Project Path="448_FindAllNumbersDisappearedinanArray\448_FindAllNumbersDisappearedinanArray.csproj" Type="C#" />
+  <Project Path="451_SortCharactersByFrequency\451_SortCharactersByFrequency.csproj" Type="C#" />
+  <Project Path="496_NextGreaterElementI\496_NextGreaterElementI.csproj" Type="C#" />
+  <Project Path="49_GroupAnagrams\49_GroupAnagrams.csproj" Type="C#" />
+  <Project Path="525_ContiguousArray\525_ContiguousArray.csproj" Type="C#" />
+  <Project Path="554_BrickWall\554_BrickWall.csproj" Type="C#" />
+  <Project Path="560_SubarraySumEqualsK\560_SubarraySumEqualsK.csproj" Type="C#" />
+  <Project Path="58_LengthofLastWord\58_LengthofLastWord.csproj" Type="C#" />
+  <Project Path="605_CanPlaceFlowers\605_CanPlaceFlowers.csproj" Type="C#" />
+  <Project Path="645_SetMismatch\645_SetMismatch.csproj" Type="C#" />
+  <Project Path="680_ValidPalindromeII\680_ValidPalindromeII.csproj" Type="C#" />
+  <Project Path="705_DesignHashSet\705_DesignHashSet.csproj" Type="C#" />
+  <Project Path="706_DesignHashMap\706_DesignHashMap.csproj" Type="C#" />
+  <Project Path="724_FindPivotIndex\724_FindPivotIndex.csproj" Type="C#" />
+  <Project Path="75_SortColors\75_SortColors.csproj" Type="C#" />
+  <Project Path="896_MonotonicArray\896_MonotonicArray.csproj" Type="C#" />
+  <Project Path="912_SortanArray\912_SortanArray.csproj" Type="C#" />
+  <Project Path="929_UniqueEmailAddresses\929_UniqueEmailAddresses.csproj" Type="C#" />
+  <Project Path="9_PalindromeNumber\9_PalindromeNumber.csproj" Type="C#" />
 </Solution>
