@@ -47,6 +47,7 @@
   <Project Path="2870_MinimumNumberofOperationstoMakeArrayEmpty\2870_MinimumNumberofOperationstoMakeArrayEmpty.csproj" />
   <Project Path="28_FindtheIndexoftheFirstOccurrenceinaString\28_FindtheIndexoftheFirstOccurrenceinaString.csproj" />
   <Project Path="290_WordPattern\290_WordPattern.csproj" />
+  <Project Path="2965_FindMissingandRepeatedValues/2965_FindMissingandRepeatedValues.csproj" />
   <Project Path="2966_DivideArrayIntoArraysWithMaxDifference\2966_DivideArrayIntoArraysWithMaxDifference.csproj" />
   <Project Path="303_RangeSumQueryImmutable\303_RangeSumQueryImmutable.csproj" />
   <Project Path="304_RangeSumQuery2DImmutable\304_RangeSumQuery2DImmutable.csproj" />
