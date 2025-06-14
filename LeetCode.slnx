@@ -51,6 +51,7 @@
   <Project Path="2966_DivideArrayIntoArraysWithMaxDifference\2966_DivideArrayIntoArraysWithMaxDifference.csproj" />
   <Project Path="303_RangeSumQueryImmutable\303_RangeSumQueryImmutable.csproj" />
   <Project Path="304_RangeSumQuery2DImmutable\304_RangeSumQuery2DImmutable.csproj" />
+  <Project Path="3105_LongestStrictlyIncreasingorStrictlyDecreasingSubarray/3105_LongestStrictlyIncreasingorStrictlyDecreasingSubarray.csproj" />
   <Project Path="3110_ScoreofaString/3110_ScoreofaString.csproj" />
   <Project Path="3289_TheTwoSneakyNumbersofDigitville\3289_TheTwoSneakyNumbersofDigitville.csproj" />
   <Project Path="344_ReverseString\344_ReverseString.csproj" />
