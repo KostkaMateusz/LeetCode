@@ -23,6 +23,7 @@
   <Project Path="1700_NumberofStudentsUnabletoEatLunch\1700_NumberofStudentsUnabletoEatLunch.csproj" />
   <Project Path="1758_MinimumChangesToMakeAlternatingBinaryString\1758_MinimumChangesToMakeAlternatingBinaryString.csproj" />
   <Project Path="179_LargestNumber\179_LargestNumber.csproj" />
+  <Project Path="1800_MaximumAscendingSubarraySum/1800_MaximumAscendingSubarraySum.csproj" />
   <Project Path="1822_SignoftheProductofanArray\1822_SignoftheProductofanArray.csproj" />
   <Project Path="1897_RedistributeCharacterstoMakeAllStringsEqual\1897_RedistributeCharacterstoMakeAllStringsEqual.csproj" />
   <Project Path="1913_MaximumProductDifferenceBetweenTwoPairs\1913_MaximumProductDifferenceBetweenTwoPairs.csproj" />
