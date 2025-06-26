@@ -32,6 +32,7 @@
   <Project Path="1963_MinimumNumberofSwapstoMaketheStringBalanced\1963_MinimumNumberofSwapstoMaketheStringBalanced.csproj" />
   <Project Path="1_TwoSum\1_TwoSum.csproj" />
   <Project Path="2001_NumberofPairsofInterchangeableRectangles\2001_NumberofPairsofInterchangeableRectangles.csproj" />
+  <Project Path="2053_KthDistinctStringinanArray/2053_KthDistinctStringinanArray.csproj" />
   <Project Path="205_IsomorphicStrings\205_IsomorphicStrings.csproj" />
   <Project Path="2073_TimeNeededtoBuyTickets\2073_TimeNeededtoBuyTickets.csproj" />
   <Project Path="217_ContainsDuplicate\217_ContainsDuplicate.csproj" />
@@ -54,6 +55,7 @@
   <Project Path="304_RangeSumQuery2DImmutable\304_RangeSumQuery2DImmutable.csproj" />
   <Project Path="3105_LongestStrictlyIncreasingorStrictlyDecreasingSubarray/3105_LongestStrictlyIncreasingorStrictlyDecreasingSubarray.csproj" />
   <Project Path="3110_ScoreofaString/3110_ScoreofaString.csproj" />
+  <Project Path="3151_SpecialArrayI/3151_SpecialArrayI.csproj" />
   <Project Path="3289_TheTwoSneakyNumbersofDigitville\3289_TheTwoSneakyNumbersofDigitville.csproj" />
   <Project Path="344_ReverseString\344_ReverseString.csproj" />
   <Project Path="347_TopKFrequentElements\347_TopKFrequentElements.csproj" />
