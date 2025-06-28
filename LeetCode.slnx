@@ -45,6 +45,7 @@
   <Project Path="238_ProductofArrayExceptSelf\238_ProductofArrayExceptSelf.csproj" />
   <Project Path="2405_OptimalPartitionofString\2405_OptimalPartitionofString.csproj" />
   <Project Path="242_Valid_Anagram\242_Valid_Anagram.csproj" />
+  <Project Path="2486_AppendCharacterstoStringtoMakeSubsequence/2486_AppendCharacterstoStringtoMakeSubsequence.csproj" />
   <Project Path="2610_ConvertanArrayIntoa2DArrayWithConditions\2610_ConvertanArrayIntoa2DArrayWithConditions.csproj" />
   <Project Path="2678_NumberofSeniorCitizens/2678_NumberofSeniorCitizens.csproj" />
   <Project Path="271_EncodeandDecodeStrings\271_EncodeandDecodeStrings.csproj" />
