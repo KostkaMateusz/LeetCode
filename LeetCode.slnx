@@ -62,6 +62,7 @@
   <Project Path="3110_ScoreofaString/3110_ScoreofaString.csproj" />
   <Project Path="3151_SpecialArrayI/3151_SpecialArrayI.csproj" />
   <Project Path="3289_TheTwoSneakyNumbersofDigitville\3289_TheTwoSneakyNumbersofDigitville.csproj" />
+  <Project Path="3442_MaximumDifferenceBetweenEvenandOddFrequencyI/3442_MaximumDifferenceBetweenEvenandOddFrequencyI.csproj" />
   <Project Path="344_ReverseString\344_ReverseString.csproj" />
   <Project Path="347_TopKFrequentElements\347_TopKFrequentElements.csproj" />
   <Project Path="349_IntersectionofTwoArrays\349_IntersectionofTwoArrays.csproj" />
