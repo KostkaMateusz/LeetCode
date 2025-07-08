@@ -17,8 +17,9 @@ public class Solution
                 {
                     return false;
                 }
-                
-            }else if (!map.ContainsValue(t[i]))
+
+            }
+            else if (!map.ContainsValue(t[i]))
             {
                 map[s[i]] = t[i];
             }

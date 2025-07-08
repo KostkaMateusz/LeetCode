@@ -19,7 +19,7 @@ public class Solution
             }
             else
             {
-                swapNumber ++;
+                swapNumber++;
             }
             maxSwapNumber = Math.Max(maxSwapNumber, swapNumber);
         }

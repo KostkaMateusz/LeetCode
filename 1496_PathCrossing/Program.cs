@@ -1,6 +1,6 @@
 ﻿// https://leetcode.com/problems/path-crossing/description/
 
-var sol=new Solution();
+var sol = new Solution();
 
 sol.IsPathCrossing("NES");
 

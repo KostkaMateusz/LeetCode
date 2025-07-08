@@ -25,6 +25,6 @@ public class Solution
             }
         }
 
-        return n==0;
+        return n == 0;
     }
 }

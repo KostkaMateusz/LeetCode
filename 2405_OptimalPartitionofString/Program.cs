@@ -24,7 +24,7 @@ public class Solution
 
             group.Add(c);
         }
-        
+
         return count;
     }
 }

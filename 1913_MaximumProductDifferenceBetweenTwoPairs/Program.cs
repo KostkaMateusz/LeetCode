@@ -3,7 +3,7 @@
 var sol = new Solution();
 
 // sol.MaxProductDifference([5, 6, 2, 7, 4]);
-sol.MaxProductDifference([4,2,5,9,7,4,8]);
+sol.MaxProductDifference([4, 2, 5, 9, 7, 4, 8]);
 
 
 public class Solution
@@ -21,16 +21,18 @@ public class Solution
             {
                 secondMax = max;
                 max = currentNumber;
-            }else if (currentNumber > secondMax)
+            }
+            else if (currentNumber > secondMax)
             {
                 secondMax = currentNumber;
             }
-            
+
             if (currentNumber < min)
             {
                 secondMin = min;
                 min = currentNumber;
-            }else if (currentNumber < secondMin)
+            }
+            else if (currentNumber < secondMin)
             {
                 secondMin = currentNumber;
             }

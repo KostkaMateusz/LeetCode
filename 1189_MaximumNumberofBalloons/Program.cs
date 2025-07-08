@@ -1,10 +1,10 @@
 ﻿// https://leetcode.com/problems/maximum-number-of-balloons/
 
-var sol=new Solution();
+var sol = new Solution();
 
 var text = "nlaebolko";
 
-var output=sol.MaxNumberOfBalloons(text);
+var output = sol.MaxNumberOfBalloons(text);
 
 Console.WriteLine();
 public class Solution
@@ -13,7 +13,7 @@ public class Solution
     {
         // balloon
         // b a l o n
-        int[] ballon = new int [5];
+        int[] ballon = new int[5];
 
         foreach (var s in text)
         {

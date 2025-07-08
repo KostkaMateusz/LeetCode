@@ -14,7 +14,7 @@ public class Solution
             {
                 return new int[][] { };
             }
-            
+
             result[buckerNumber] = new int[3];
 
             result[buckerNumber][0] = nums[i];

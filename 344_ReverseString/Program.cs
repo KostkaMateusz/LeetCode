@@ -2,7 +2,7 @@
 
 var sol = new Solution();
 
-sol.ReverseString(['h','e','l','l','o']);
+sol.ReverseString(['h', 'e', 'l', 'l', 'o']);
 
 
 public class Solution
@@ -16,7 +16,7 @@ public class Solution
         while (pointerA <= pointerB)
         {
             (s[pointerA], s[pointerB]) = (s[pointerB], s[pointerA]);
-            
+
             pointerA++;
             pointerB--;
         }

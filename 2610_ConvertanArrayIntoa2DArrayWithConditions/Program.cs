@@ -29,7 +29,7 @@ public class Solution
 
                 if (index == matrix.Count - 1)
                 {
-                    var set= new HashSet<int> { num };
+                    var set = new HashSet<int> { num };
                     matrix.Add(set);
                     break;
                 }

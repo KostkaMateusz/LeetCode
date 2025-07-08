@@ -2,8 +2,8 @@
 {
     public string DestCity(IList<IList<string>> paths)
     {
-        var source=new HashSet<string>();
-        var destination=new HashSet<string>();
+        var source = new HashSet<string>();
+        var destination = new HashSet<string>();
 
         foreach (var destinationPair in paths)
         {

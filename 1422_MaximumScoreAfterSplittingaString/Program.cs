@@ -10,11 +10,11 @@ public class Solution
         int zeroScore = 0;
         int oneScore = s.Count(x => x == '1');
 
-        for (int i=0;i<s.Length-1;i++)
+        for (int i = 0; i < s.Length - 1; i++)
         {
 
             var element = s[i];
-            
+
             if (element == '0')
             {
                 zeroScore++;

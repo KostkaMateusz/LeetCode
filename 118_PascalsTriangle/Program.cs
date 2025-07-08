@@ -14,8 +14,8 @@ public class Solution
 
         pascalTriangle.Add([1]);
         pascalTriangle.Add([1, 1]);
-        
-        
+
+
         for (int i = 2; i < numRows; i++)
         {
             pascalTriangle.Add([]);
@@ -39,7 +39,7 @@ public class Solution
                 }
             }
         }
-        
+
         return pascalTriangle[..numRows];
     }
 }

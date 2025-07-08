@@ -12,4 +12,4 @@ public class Solution
         string str = x.ToString();
         return str == new string(str.Reverse().ToArray());
     }
-}    
+}

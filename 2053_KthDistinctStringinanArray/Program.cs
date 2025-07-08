@@ -16,7 +16,7 @@ public class Solution
         {
             string strAt = arr[i];
 
-            if (!dict.TryAdd(strAt,  1))
+            if (!dict.TryAdd(strAt, 1))
             {
                 dict[strAt] += 1;
             }

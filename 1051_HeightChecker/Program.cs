@@ -18,7 +18,7 @@ public class Solution
             int c = count[h];
             for (int i = 0; i < c; i++)
             {
-                expected[index]=h;
+                expected[index] = h;
                 index++;
             }
         }

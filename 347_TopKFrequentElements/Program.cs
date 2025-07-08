@@ -3,7 +3,7 @@
 var sol = new Solution();
 
 // sol.TopKFrequent(nums: [1, 1, 1, 2, 2, 3], k: 2);
-sol.TopKFrequent(nums : [1], k : 1);
+sol.TopKFrequent(nums: [1], k: 1);
 
 public class Solution
 {
@@ -20,7 +20,7 @@ public class Solution
         }
 
         // Bucket Creation
-        List<int>?[] bucket = new List<int>[nums.Length+1];
+        List<int>?[] bucket = new List<int>[nums.Length + 1];
 
         foreach (var kvp in dict)
         {

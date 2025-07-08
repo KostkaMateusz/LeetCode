@@ -12,7 +12,7 @@ public class Solution
 
         foreach (var num in nums)
         {
-            if (!visited.Add(num) )
+            if (!visited.Add(num))
             {
                 duplciate[index] = num;
                 index++;

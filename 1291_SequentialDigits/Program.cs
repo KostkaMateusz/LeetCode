@@ -16,7 +16,7 @@ public class Solution
 
         while (queue.Count > 0)
         {
-            int n=queue.Dequeue();
+            int n = queue.Dequeue();
             if (n > high)
             {
                 continue;
@@ -26,15 +26,15 @@ public class Solution
             {
                 result.Add(n);
             }
-            
-            int lastDigit=n%10;
+
+            int lastDigit = n % 10;
 
             if (lastDigit < 9)
             {
-                queue.Enqueue(n*10+(lastDigit+1));
+                queue.Enqueue(n * 10 + (lastDigit + 1));
             }
         }
-        
+
 
         return result;
     }
