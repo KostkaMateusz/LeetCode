@@ -70,6 +70,7 @@
   <Project Path="349_IntersectionofTwoArrays\349_IntersectionofTwoArrays.csproj" />
   <Project Path="36_ValidSudoku\36_ValidSudoku.csproj" />
   <Project Path="380_InsertDeleteGetRandom\380_InsertDeleteGetRandom.csproj" />
+  <Project Path="383_RansomNote/383_RansomNote.csproj" />
   <Project Path="387_FirstUniqueCharacterinaString\387_FirstUniqueCharacterinaString.csproj" />
   <Project Path="392_IsSubsequence\392_IsSubsequence.csproj" /> 
   <Project Path="438_FindAllAnagramsinaString\438_FindAllAnagramsinaString.csproj" />
