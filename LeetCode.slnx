@@ -10,6 +10,7 @@
   <Project Path="1291_SequentialDigits\1291_SequentialDigits.csproj" />
   <Project Path="1299_ReplaceElementswithGreatestElementonRightSide\1299_ReplaceElementswithGreatestElementonRightSide.csproj" />
   <Project Path="136_SingleNumber\136_SingleNumber.csproj" />
+  <Project Path="1394_FindLuckyIntegerinanArray/1394_FindLuckyIntegerinanArray.csproj" />
   <Project Path="1396_DesignUndergroundSystem\1396_DesignUndergroundSystem.csproj" />
   <Project Path="1422_MaximumScoreAfterSplittingaString\1422_MaximumScoreAfterSplittingaString.csproj" />
   <Project Path="1436_DestinationCity\1436_DestinationCity.csproj" />
