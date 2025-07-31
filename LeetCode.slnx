@@ -91,6 +91,7 @@
   <Project Path="706_DesignHashMap\706_DesignHashMap.csproj" />
   <Project Path="724_FindPivotIndex\724_FindPivotIndex.csproj" />
   <Project Path="75_SortColors\75_SortColors.csproj" />
+  <Project Path="884_UncommonWordsfromTwoSentences/884_UncommonWordsfromTwoSentences.csproj" />
   <Project Path="896_MonotonicArray\896_MonotonicArray.csproj" />
   <Project Path="912_SortanArray\912_SortanArray.csproj" />
   <Project Path="929_UniqueEmailAddresses\929_UniqueEmailAddresses.csproj" />
