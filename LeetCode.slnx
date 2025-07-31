@@ -72,7 +72,8 @@
   <Project Path="380_InsertDeleteGetRandom\380_InsertDeleteGetRandom.csproj" />
   <Project Path="383_RansomNote/383_RansomNote.csproj" />
   <Project Path="387_FirstUniqueCharacterinaString\387_FirstUniqueCharacterinaString.csproj" />
-  <Project Path="392_IsSubsequence\392_IsSubsequence.csproj" /> 
+  <Project Path="392_IsSubsequence\392_IsSubsequence.csproj" />
+  <Project Path="409_LongestPalindrome/409_LongestPalindrome.csproj" /> 
   <Project Path="438_FindAllAnagramsinaString\438_FindAllAnagramsinaString.csproj" />
   <Project Path="442_FindAllDuplicatesinanArray\442_FindAllDuplicatesinanArray.csproj" />
   <Project Path="448_FindAllNumbersDisappearedinanArray\448_FindAllNumbersDisappearedinanArray.csproj" />
