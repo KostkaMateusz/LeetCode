@@ -99,5 +99,6 @@
   <Project Path="896_MonotonicArray\896_MonotonicArray.csproj" />
   <Project Path="912_SortanArray\912_SortanArray.csproj" />
   <Project Path="929_UniqueEmailAddresses\929_UniqueEmailAddresses.csproj" />
+  <Project Path="977_SquaresofaSortedArray/977_SquaresofaSortedArray.csproj" />
   <Project Path="9_PalindromeNumber\9_PalindromeNumber.csproj" />
 </Solution>
