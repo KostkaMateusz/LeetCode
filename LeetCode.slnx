@@ -79,6 +79,7 @@
   <Project Path="442_FindAllDuplicatesinanArray\442_FindAllDuplicatesinanArray.csproj" />
   <Project Path="448_FindAllNumbersDisappearedinanArray\448_FindAllNumbersDisappearedinanArray.csproj" />
   <Project Path="451_SortCharactersByFrequency\451_SortCharactersByFrequency.csproj" />
+  <Project Path="455_AssignCookies/455_AssignCookies.csproj" />
   <Project Path="485_MaxConsecutiveOnes/485_MaxConsecutiveOnes.csproj" />
   <Project Path="496_NextGreaterElementI\496_NextGreaterElementI.csproj" />
   <Project Path="49_GroupAnagrams\49_GroupAnagrams.csproj" />
