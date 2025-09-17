@@ -86,6 +86,7 @@
   <Project Path="49_GroupAnagrams\49_GroupAnagrams.csproj" />
   <Project Path="525_ContiguousArray\525_ContiguousArray.csproj" />
   <Project Path="554_BrickWall\554_BrickWall.csproj" />
+  <Project Path="557_ReverseWordsinaStringIII/557_ReverseWordsinaStringIII.csproj" />
   <Project Path="560_SubarraySumEqualsK\560_SubarraySumEqualsK.csproj" />
   <Project Path="58_LengthofLastWord\58_LengthofLastWord.csproj" />
   <Project Path="605_CanPlaceFlowers\605_CanPlaceFlowers.csproj" />
