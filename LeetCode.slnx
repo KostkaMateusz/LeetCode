@@ -55,6 +55,7 @@
   <Project Path="2678_NumberofSeniorCitizens/2678_NumberofSeniorCitizens.csproj" />
   <Project Path="271_EncodeandDecodeStrings\271_EncodeandDecodeStrings.csproj" />
   <Project Path="27_RemoveElement\27_RemoveElement.csproj" />
+  <Project Path="283_MoveZeroes/283_MoveZeroes.csproj" />
   <Project Path="2870_MinimumNumberofOperationstoMakeArrayEmpty\2870_MinimumNumberofOperationstoMakeArrayEmpty.csproj" />
   <Project Path="28_FindtheIndexoftheFirstOccurrenceinaString\28_FindtheIndexoftheFirstOccurrenceinaString.csproj" />
   <Project Path="290_WordPattern\290_WordPattern.csproj" />
