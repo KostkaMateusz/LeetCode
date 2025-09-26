@@ -1,28 +1,36 @@
 ﻿// https://leetcode.com/problems/average-waiting-time/
 
+var sol = new Solution();
+
+sol.AverageWaitingTime(customers: [[1, 2], [2, 5], [4, 3]]);
+
+
 public class Solution
 {
     public double AverageWaitingTime(int[][] customers)
     {
-        int currentTime = 1;
-        int[] customerWaitTaime = new int[customers.Length];
+        int currentTime = 0;
+        long totalWait = 0;
 
-        for (int i = 0; i < customers.Length; i++)
+        foreach (int[] customer in customers)
         {
-            int[] customer = customers[i];
+            int arrival = customer[0];
+            int order = customer[1];
 
-            if (customer[0] >= currentTime)
+            if (currentTime > arrival)
             {
-                currentTime = customer[0];
-            
-            
-                currentTime += customer[1];
-
-
+                totalWait += (currentTime - arrival);
+            }
+            else
+            {
+                currentTime = arrival;
             }
 
+            totalWait += order;
+            currentTime += order;
 
         }
 
+        return (double)totalWait / customers.Length;
     }
 }
