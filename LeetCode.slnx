@@ -47,6 +47,7 @@
   <Project Path="2206_DivideArrayIntoEqualPairs/2206_DivideArrayIntoEqualPairs.csproj" />
   <Project Path="2215_FindtheDifferenceofTwoArrays\2215_FindtheDifferenceofTwoArrays.csproj" />
   <Project Path="2264_Largest3SameDigitNumberinString\2264_Largest3SameDigitNumberinString.csproj" />
+  <Project Path="229_MajorityElementII/229_MajorityElementII.csproj" />
   <Project Path="2348_NumberofZeroFilledSubarrays\2348_NumberofZeroFilledSubarrays.csproj" />
   <Project Path="238_ProductofArrayExceptSelf\238_ProductofArrayExceptSelf.csproj" />
   <Project Path="2405_OptimalPartitionofString\2405_OptimalPartitionofString.csproj" />
