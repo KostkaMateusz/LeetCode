@@ -26,6 +26,7 @@
   <Project Path="1685_SumofAbsoluteDifferencesinaSortedArray\1685_SumofAbsoluteDifferencesinaSortedArray.csproj" />
   <Project Path="169_MajorityElement\169_MajorityElement.csproj" />
   <Project Path="1700_NumberofStudentsUnabletoEatLunch\1700_NumberofStudentsUnabletoEatLunch.csproj" />
+  <Project Path="1701_AverageWaitingTime/1701_AverageWaitingTime.csproj" />
   <Project Path="1752_CheckifArrayIsSortedandRotated/1752_CheckifArrayIsSortedandRotated.csproj" />
   <Project Path="1758_MinimumChangesToMakeAlternatingBinaryString\1758_MinimumChangesToMakeAlternatingBinaryString.csproj" />
   <Project Path="1768_MergeStringsAlternately/1768_MergeStringsAlternately.csproj" />
