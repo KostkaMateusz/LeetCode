@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="1002_FindCommonCharacters/1002_FindCommonCharacters.csproj" />
   <Project Path="1051_HeightChecker/1051_HeightChecker.csproj" />
+  <Project Path="1122_RelativeSortArray/1122_RelativeSortArray.csproj" />
   <Project Path="1160_FindWordsThatCanBeFormedbyCharacters\1160_FindWordsThatCanBeFormedbyCharacters.csproj" />
   <Project Path="1189_MaximumNumberofBalloons\1189_MaximumNumberofBalloons.csproj" />
   <Project Path="118_PascalsTriangle\118_PascalsTriangle.csproj" />
