@@ -33,6 +33,7 @@
   <Project Path="1752_CheckifArrayIsSortedandRotated/1752_CheckifArrayIsSortedandRotated.csproj" />
   <Project Path="1758_MinimumChangesToMakeAlternatingBinaryString\1758_MinimumChangesToMakeAlternatingBinaryString.csproj" />
   <Project Path="1768_MergeStringsAlternately/1768_MergeStringsAlternately.csproj" />
+  <Project Path="1769_MinimumNumberofOperationstoMoveAllBallstoEachBox/1769_MinimumNumberofOperationstoMoveAllBallstoEachBox.csproj" />
   <Project Path="179_LargestNumber\179_LargestNumber.csproj" />
   <Project Path="1800_MaximumAscendingSubarraySum/1800_MaximumAscendingSubarraySum.csproj" />
   <Project Path="1822_SignoftheProductofanArray\1822_SignoftheProductofanArray.csproj" />
@@ -106,6 +107,7 @@
   <Project Path="706_DesignHashMap\706_DesignHashMap.csproj" />
   <Project Path="724_FindPivotIndex\724_FindPivotIndex.csproj" />
   <Project Path="75_SortColors\75_SortColors.csproj" />
+  <Project Path="791_CustomSortString/791_CustomSortString.csproj" />
   <Project Path="884_UncommonWordsfromTwoSentences/884_UncommonWordsfromTwoSentences.csproj" />
   <Project Path="88_MergeSortedArray/88_MergeSortedArray.csproj" />
   <Project Path="896_MonotonicArray\896_MonotonicArray.csproj" />
