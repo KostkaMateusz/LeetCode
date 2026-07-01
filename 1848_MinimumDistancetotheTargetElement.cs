@@ -1,7 +1,4 @@
-
-var sol = new Solution();
-
-sol.GetMinDistance([1, 2, 3, 4, 5], 5, 3);
+// https://leetcode.com/problems/minimum-distance-to-the-target-element/?envType=daily-question&envId=2026-04-13
 
 public class Solution
 {
